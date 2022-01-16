@@ -1,2 +1,2 @@
 # Longest-Palindrome-Substring
-inspired by nick white
+the infamous palindrome
