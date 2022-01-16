@@ -9,7 +9,7 @@ class Solution:
             two = self.expand_from_mid(s, i, i+1)
             longest = one if one >= two else two
             if longest > end-start + 1:
-                start, end = 2, 2
+                start, end = 3, 3
 
         return s[start:end]
 
